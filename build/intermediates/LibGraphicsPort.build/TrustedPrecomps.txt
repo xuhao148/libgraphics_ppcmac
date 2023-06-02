@@ -1,0 +1,5 @@
+/System/Library/Frameworks/Cocoa.framework/Versions/A/Headers/Cocoa.h
+/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/Foundation.h
+/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Headers/ApplicationServices.h
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Headers/CoreServices.h
+/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/AppKit.h

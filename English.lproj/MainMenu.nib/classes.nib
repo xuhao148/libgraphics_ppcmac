@@ -1,0 +1,25 @@
+{
+    IBClasses = (
+        {
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {gwControl = id; libGraphics = id; theCanvas = id; theWindow = id; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = GWController; LANGUAGE = ObjC; SUPERCLASS = NSWindowController; }, 
+        {
+            CLASS = GraphicView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {libGraphics = id; }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {
+            CLASS = SimpleGraphics; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {appController = id; theCanvas = id; theController = id; theWindow = id; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}
